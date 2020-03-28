@@ -1,6 +1,5 @@
 # Pandas Homework - Pandas, Pandas, Pandas
 
-## Backgroun- MEMEt  deneme
 
 The data dive continues!
 
